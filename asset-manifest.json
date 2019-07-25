@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/moonfallmaple/student-profile/static/css/main.3aca3135.chunk.css",
-    "main.js": "/moonfallmaple/student-profile/static/js/main.1b4f52b5.chunk.js",
-    "main.js.map": "/moonfallmaple/student-profile/static/js/main.1b4f52b5.chunk.js.map",
-    "runtime~main.js": "/moonfallmaple/student-profile/static/js/runtime~main.e2a50aa9.js",
-    "runtime~main.js.map": "/moonfallmaple/student-profile/static/js/runtime~main.e2a50aa9.js.map",
-    "static/css/2.676dc204.chunk.css": "/moonfallmaple/student-profile/static/css/2.676dc204.chunk.css",
-    "static/js/2.a9e2383e.chunk.js": "/moonfallmaple/student-profile/static/js/2.a9e2383e.chunk.js",
-    "static/js/2.a9e2383e.chunk.js.map": "/moonfallmaple/student-profile/static/js/2.a9e2383e.chunk.js.map",
-    "index.html": "/moonfallmaple/student-profile/index.html",
-    "precache-manifest.71df42000eae19946132f3dbda321334.js": "/moonfallmaple/student-profile/precache-manifest.71df42000eae19946132f3dbda321334.js",
-    "service-worker.js": "/moonfallmaple/student-profile/service-worker.js",
-    "static/css/2.676dc204.chunk.css.map": "/moonfallmaple/student-profile/static/css/2.676dc204.chunk.css.map",
-    "static/css/main.3aca3135.chunk.css.map": "/moonfallmaple/student-profile/static/css/main.3aca3135.chunk.css.map"
+    "main.css": "/moonfallmaple/student-profile-demo/static/css/main.3aca3135.chunk.css",
+    "main.js": "/moonfallmaple/student-profile-demo/static/js/main.1b4f52b5.chunk.js",
+    "main.js.map": "/moonfallmaple/student-profile-demo/static/js/main.1b4f52b5.chunk.js.map",
+    "runtime~main.js": "/moonfallmaple/student-profile-demo/static/js/runtime~main.63810748.js",
+    "runtime~main.js.map": "/moonfallmaple/student-profile-demo/static/js/runtime~main.63810748.js.map",
+    "static/css/2.676dc204.chunk.css": "/moonfallmaple/student-profile-demo/static/css/2.676dc204.chunk.css",
+    "static/js/2.654621d0.chunk.js": "/moonfallmaple/student-profile-demo/static/js/2.654621d0.chunk.js",
+    "static/js/2.654621d0.chunk.js.map": "/moonfallmaple/student-profile-demo/static/js/2.654621d0.chunk.js.map",
+    "index.html": "/moonfallmaple/student-profile-demo/index.html",
+    "precache-manifest.a80730843f9e6d8476ba552ae9f6875a.js": "/moonfallmaple/student-profile-demo/precache-manifest.a80730843f9e6d8476ba552ae9f6875a.js",
+    "service-worker.js": "/moonfallmaple/student-profile-demo/service-worker.js",
+    "static/css/2.676dc204.chunk.css.map": "/moonfallmaple/student-profile-demo/static/css/2.676dc204.chunk.css.map",
+    "static/css/main.3aca3135.chunk.css.map": "/moonfallmaple/student-profile-demo/static/css/main.3aca3135.chunk.css.map"
   }
 }
