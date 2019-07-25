@@ -30,18 +30,19 @@
 
 .student-list{
   position: relative;
+  width:90%;
   top: 130px;
-  left: 20px;
+  margin:0 auto;
 }
 .student-details {
-  width:80%;
+  width:65%;
   margin: 0 auto;
-  padding: 0;
+  padding:10px;
   color:black;
   background-color: white ;
 }
-.p student-name{
-  font-size: 30px;
+.student-name{
+  font-size: 20px;
   font-weight: bold;
 }
 .Card{
