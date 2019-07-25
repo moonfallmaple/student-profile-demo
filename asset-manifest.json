@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/moonfallmaple/student-profile-demo/static/css/main.3aca3135.chunk.css",
-    "main.js": "/moonfallmaple/student-profile-demo/static/js/main.1b4f52b5.chunk.js",
-    "main.js.map": "/moonfallmaple/student-profile-demo/static/js/main.1b4f52b5.chunk.js.map",
-    "runtime~main.js": "/moonfallmaple/student-profile-demo/static/js/runtime~main.63810748.js",
-    "runtime~main.js.map": "/moonfallmaple/student-profile-demo/static/js/runtime~main.63810748.js.map",
-    "static/css/2.676dc204.chunk.css": "/moonfallmaple/student-profile-demo/static/css/2.676dc204.chunk.css",
-    "static/js/2.654621d0.chunk.js": "/moonfallmaple/student-profile-demo/static/js/2.654621d0.chunk.js",
-    "static/js/2.654621d0.chunk.js.map": "/moonfallmaple/student-profile-demo/static/js/2.654621d0.chunk.js.map",
-    "index.html": "/moonfallmaple/student-profile-demo/index.html",
-    "precache-manifest.a80730843f9e6d8476ba552ae9f6875a.js": "/moonfallmaple/student-profile-demo/precache-manifest.a80730843f9e6d8476ba552ae9f6875a.js",
-    "service-worker.js": "/moonfallmaple/student-profile-demo/service-worker.js",
-    "static/css/2.676dc204.chunk.css.map": "/moonfallmaple/student-profile-demo/static/css/2.676dc204.chunk.css.map",
-    "static/css/main.3aca3135.chunk.css.map": "/moonfallmaple/student-profile-demo/static/css/main.3aca3135.chunk.css.map"
+    "main.css": "/student-profile-demo/static/css/main.3aca3135.chunk.css",
+    "main.js": "/student-profile-demo/static/js/main.1b4f52b5.chunk.js",
+    "main.js.map": "/student-profile-demo/static/js/main.1b4f52b5.chunk.js.map",
+    "runtime~main.js": "/student-profile-demo/static/js/runtime~main.4dfaee74.js",
+    "runtime~main.js.map": "/student-profile-demo/static/js/runtime~main.4dfaee74.js.map",
+    "static/css/2.676dc204.chunk.css": "/student-profile-demo/static/css/2.676dc204.chunk.css",
+    "static/js/2.7697b4ab.chunk.js": "/student-profile-demo/static/js/2.7697b4ab.chunk.js",
+    "static/js/2.7697b4ab.chunk.js.map": "/student-profile-demo/static/js/2.7697b4ab.chunk.js.map",
+    "index.html": "/student-profile-demo/index.html",
+    "precache-manifest.c65c427ac2782d93e8168956693da502.js": "/student-profile-demo/precache-manifest.c65c427ac2782d93e8168956693da502.js",
+    "service-worker.js": "/student-profile-demo/service-worker.js",
+    "static/css/2.676dc204.chunk.css.map": "/student-profile-demo/static/css/2.676dc204.chunk.css.map",
+    "static/css/main.3aca3135.chunk.css.map": "/student-profile-demo/static/css/main.3aca3135.chunk.css.map"
   }
 }
